@@ -10,7 +10,7 @@ DOM
 How your website justifies the theme you have selected
 We have created a webiste that fullfiles the need of every gamer. It gives you daily update regarding the games as well as who is straem the on their channel now. It also has a forum for people to disucss
 
-Brownie points
+
 1. What problems you faced and how you resolved it.
 Clashing CSS class names; Overcame by watching yt videos
 Problems in Javascript editing; OverCame by finding alternatives
